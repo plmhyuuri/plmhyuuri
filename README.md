@@ -1,5 +1,5 @@
 ## hi, about me
-- a student in vietnam
+- a student in Vietnam
 - i like Girls' Last Tour
 - i use arch btw
 
