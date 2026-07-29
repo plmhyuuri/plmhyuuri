@@ -1,5 +1,5 @@
 ## hi, about me
-- a student in Vietnam
+- a 15-yrs-old student in Vietnam
 - i like Girls' Last Tour
 - i use arch btw
 
