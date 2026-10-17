@@ -7,7 +7,7 @@
 - studying for +1500 SAT
 - learning web development
 - building automation tools
-- developing VinFocus
+- developing VinFocus and CanvasFocus
 
 **interested in**: software engineering and machine learning
 
